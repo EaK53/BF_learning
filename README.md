@@ -2,7 +2,7 @@
 <h1>Boundary-Focused Learning for Multi-View BEV Vehicle Detection</h1>
 
 ## Introduction
-This repository contains codes of BF-BEV and BF-RepDETR3D.
+The repository containing codes of BF-BEV and BF-RepDETR3D will come soon. Now we only display evaluation result files.
 
 ## Getting Started
 The environment setups of BF-BEV and BF-RepDETR3D follow [BEVFormer](https://github.com/fundamentalvision/BEVFormer) and [RepDETR3D](https://github.com/exiawsh/StreamPETR), respectively.
