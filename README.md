@@ -2,7 +2,7 @@
 <h1>Boundary-Focused Learning for Multi-View BEV Vehicle Detection</h1>
 
 ## Introduction
-The repository containing codes of BF-BEV and BF-RepDETR3D will come soon. 
+The repository containing codes of BF-BEV and BF-RepDETR3D is coming soon. 
 
 Now we only display evaluation result files.
 
